@@ -8,5 +8,5 @@ wordVectors为训练的词向量,idsMatrix.npy为生成的单词索引矩阵,把
 最终输出的预测结果为对语料的分类,这里为积极消极两种情况,迭代200000后准确率基本达到最高,在测试集中可达到80%以上.  
 4.可视化   
 训练过程由tensorbord可视化如下图   
-https://github.com/dotah88/Sentiment-analysis/blob/master/tensor_image/45cb2c86-2308-4058-8d62-e5a49135eae1.png  
+[!]image(https://github.com/dotah88/Sentiment-analysis/blob/master/tensor_image/45cb2c86-2308-4058-8d62-e5a49135eae1.png)  
 
